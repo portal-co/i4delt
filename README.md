@@ -1,13 +1,14 @@
 # i4delt
 
 ## Description
-Project i4delt
+Delta-based encoding utility for fast compilation of RISC-V and ARM binaries.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Optimize compilation speed via delta encoding
+- [ ] Support multiple architectures
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
